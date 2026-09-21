@@ -22,7 +22,7 @@ A full-stack music player built with Java 21, Spring Boot, Spring Data JPA, H2, 
 mvn spring-boot:run
 ```
 
-Open http://localhost:8080
+Open http://localhost:8065
 
 ## Playlist workflow
 
